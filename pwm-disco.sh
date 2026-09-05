@@ -12,8 +12,8 @@
 #   GPIO16 (header pin 36) -> resistor -> LED -> GND
 #
 # Usage:
-#   chmod +x pwm_demo.sh
-#   ./pwm_demo.sh
+#   chmod +x pwm_disco.sh
+#   ./pwm_disco.sh
 #   Ctrl+C to stop
 
 set -u
